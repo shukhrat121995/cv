@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Software engineer (and sometimes still a journalist) based in Berlin, Germany
 
 ### 💬 Languages
- - **English**: Ielts 7.0
- - **Russian**: Native
- - **Uzbek**: Native
- - **German**: A2
+**English**: Ielts 7.0
+**Russian**: Native
+**Uzbek**: Native
+**German**: A2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
