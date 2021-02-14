@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Software engineer (and sometimes still a journalist) based in Berlin, Germany
 
 ### 💬 Languages
+1. **English**: Ielts 7.0
+2. **Russian**: Native
 - **English**: Ielts 7.0
 - **Russian**: Native
 - **Uzbek**: Native
