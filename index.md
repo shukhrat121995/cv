@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Software engineer (and sometimes still a journalist) based in Berlin, Germany
 
+### 👩🏼‍🎓 Education
+
 ### 💬 Languages
 - **English**: Ielts 7.0
 - **Russian**: Native
