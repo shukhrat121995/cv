@@ -2,6 +2,12 @@
 <br>
 <br>
 ### 👩🏼‍💻 Work Experience<br>
+**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+No-code platform that enables professionals to build interactive applications.
+  - Extending and maintaining a company-wide design system
+  - Building a new frontend component library
+  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+<br><br>
 **Full Stack Web Developer** at [MINISTRY OF ECONOMIC DEVELOPMENT AND POVERTY
 REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uzbekistan _(Dec 2019 - Present)_.<br>
 build the [website](http://ridp.uz/en/) from the scratch that vizualizes the progress report
