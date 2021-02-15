@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Software engineer (and sometimes still a journalist) based in Berlin, Germany
 
 ### 👩🏼‍🎓 Education
-Master's of **Computer Science and Engineering** in Applied Computing<br>
+Master's programm in **Computer Science and Engineering**<br>
 [OULU University](https://www.oulu.fi/en) - OULU, Finland _(Sep 2021 - Aug 2023)_.<br>
 <br>
 Bachelor of **Computer Science and Engineering**<br>
