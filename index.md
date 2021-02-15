@@ -1,9 +1,12 @@
 ## Shukhrat Mirrakhimov<br>
-
+<br>
+<br>
 ### 👩🏼‍💻 Work Experience<br>
 **Full Stack Web Developer** at [MINISTRY OF ECONOMIC DEVELOPMENT AND POVERTY
 REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uzbekistan _(Dec 2019 - Present)_.<br>
+<br>
 **Teaching Assitant** at [INHA University](https://inha.uz/) - Tashkent, Uzbekistan _(Jan 2019 - Dec 2019)_.<br>
+<br>
 <br>
 ### 👩🏼‍🎓 Education
 Master's programm in **Computer Science and Engineering**<br>
@@ -11,7 +14,8 @@ Master's programm in **Computer Science and Engineering**<br>
 <br>
 Bachelor of **Computer Science and Engineering**<br>
 [INHA University](https://inha.uz/) - Tashkent, Uzbekistan _(Oct 2014 - Aug 2018)_.<br>
-
+<br>
+<br>
 ### 💬 Languages<br>
 **English**: IELTS 7.0<br>
 **Russian**: Native<br>
