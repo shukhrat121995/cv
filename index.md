@@ -7,7 +7,7 @@ REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uz
   - build the [website](http://ridp.uz/en/) from the scratch that vizualizes the progress report
   - build the draft [mobile application](https://play.google.com/store/apps/details?id=com.shukhrat.wbpvp) for this project
   - created the [logo](http://ridp.uz/static/dentist/img/bg-img/512x512.jpg) of the project.
-<br><br>
+  <br><br>
 **Teaching Assitant** at [INHA University](https://inha.uz/) - Tashkent, Uzbekistan _(Jan 2019 - Dec 2019)_.<br>
 <br>
 <br>
