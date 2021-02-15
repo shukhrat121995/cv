@@ -13,7 +13,7 @@ REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uz
 <br>
 <br>
 ### 👩🏼‍🎓 Education
-Master's programm in **Computer Science and Engineering**<br>
+Master's programme in **Computer Science and Engineering**<br>
 [OULU University](https://www.oulu.fi/en) - OULU, Finland _(Sep 2021 - Aug 2023)_.<br>
 <br>
 Bachelor of **Computer Science and Engineering**<br>
