@@ -7,14 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Software engineer (and sometimes still a journalist) based in Berlin, Germany
 
 ### 👩🏼‍🎓 Education
-Bachelor of **Computer Science and Engineering**
-[INHA University in Tashkent](https://inha.uz/).
+Bachelor of **Computer Science and Engineering**<br>
+[INHA University in Tashkent](https://inha.uz/).<br>
 
-### 💬 Languages
-- **English**: Ielts 7.0
-- **Russian**: Native
-- **Uzbek**: Native
-- **German**: A2
+### 💬 Languages<br>
+**English**: Ielts 7.0<br>
+**Russian**: Native<br>
+**Uzbek**: Native<br>
+**German**: A2<br>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
