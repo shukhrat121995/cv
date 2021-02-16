@@ -23,7 +23,7 @@ Bachelor of **Computer Science and Engineering**<br>
 <br>
 <br>
 ### 💬 Languages<br>
-**English**: IELTS 7.0<br>
-**Russian**: Native<br>
+**English**: Advanced **_IELTS 7.0_**<br>
+**Russian**: Bilingual<br>
 **Uzbek**: Native<br>
-**German**: A2<br>
+**German**: Elementary<br>
