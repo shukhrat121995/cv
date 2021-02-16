@@ -10,8 +10,10 @@ REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uz
   - **_Technologies used:_** HTML, CSS, JavaScript, JQuery, Python, Django, PostgreSQL, Abode Photoshop, Abode Illustrator<br><br>
   
 **Teaching Assitant** at [INHA University](https://inha.uz/) - Tashkent, Uzbekistan _(Jan 2019 - Dec 2019)_.<br>
-<br>
-<br>
+  - prepare small lectures and presentations
+  - check student's homework and exams
+  - organize laboratory classes for students<br><br>
+  
 ### 👩🏼‍🎓 Education
 Master's programme in **Computer Science and Engineering**<br>
 [OULU University](https://www.oulu.fi/en) - OULU, Finland _(Sep 2021 - Aug 2023)_.<br>
