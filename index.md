@@ -1,7 +1,7 @@
 ## Shukhrat Mirrakhimov<br>
 <br>
 <br>
-### 👩🏼‍💻 Work Experience<br>
+### 👩🏼‍💻 Projects<br>
 **Full Stack Web Developer** at [MINISTRY OF ECONOMIC DEVELOPMENT AND POVERTY
 REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uzbekistan _(Dec 2019 - Present)_.<br>
   - build the [website](http://ridp.uz/en/) from the scratch that vizualizes the progress report
