@@ -1,5 +1,11 @@
 ## Shukhrat Mirrakhimov<br>
 
+### 🙋‍♂️Profile
+Creative and goal-oriented Computer Scientist & Web Developer. 
+Equipped with a diverse and promising skill-set. 
+Proficient in an assortment of technologies **Python**, **Django**, **DRF**, **PostgreSQL** and **Docker**.
+Knowledge and experience in deploying web apps on VPS web servers by using **nginx** and **gunicorn**. 
+
 ### 💼 Work Experience<br>
 _**Dec 2019 ~ Present**_ - Full Stack Web Developer at [MINISTRY OF ECONOMIC DEVELOPMENT AND POVERTY
 REDUCTION OF THE REPUBLIC OF UZBEKISTAN](http://mineconomy.uz/en) - Tashkent, Uzbekistan.<br>
